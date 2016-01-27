@@ -1,3 +1,8 @@
+.container {
+	display: none;
+}
+
+
 h1 {text-align: center; border-bottom: 5px solid navy}
 .contact-info {float: left;width:33%;text-align: center;}
 .social-contacts{text-align: center;}
